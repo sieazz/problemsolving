@@ -132,3 +132,4 @@ dmypy.json
 dummy/
 foo.*
 memo.*
+input.txt
