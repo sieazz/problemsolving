@@ -1,4 +1,4 @@
-from . import sleve_eratos as se
+import sleve_eratos as se
 
 
 def find_prime_factors(N: int) -> list:

@@ -11,4 +11,4 @@ def find_divisors(N: int) -> list:
 
 if __name__ == "__main__":
     N = int(input("Print all divisors of: "))
-    print(find_divisor(N))
+    print(find_divisors(N))
